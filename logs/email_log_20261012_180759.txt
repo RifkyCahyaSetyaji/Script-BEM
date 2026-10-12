@@ -1,0 +1,25 @@
+18:07:59  INFO      Log disimpan ke: /Users/rifkycahyasetyaji/Documents/SIBK/Script_Email/logs/email_log_20261012_180759.txt
+18:07:59  INFO      Memuat 4 penerima dari '/Users/rifkycahyasetyaji/Documents/SIBK/Script_Email/penerima.csv'
+18:07:59  INFO      Preview penerima (4 orang):
+18:07:59  INFO        1. Rhyu <rhyusantosa25@gmail.com> | dok: [Link Docs] https://docs.google.com/document/d/1x1r6Xwd-46YrDhcu8NJ...
+18:07:59  INFO        2. Rifky <rifkycahyasetyaji@gmail.com> | dok: [Link Docs] https://docs.google.com/document/d/1COekNDYdzcJe2f_ShKT...
+18:07:59  INFO        3. Ahmad Fauzi <rhyu_santosa@student.ub.ac.id> | dok: [Link Docs] https://docs.google.com/document/d/1x1r6Xwd-46YrDhcu8NJ...
+18:07:59  INFO        4. Dosen Pembimbing <its.rif76@gmail.com> | dok: [Link Docs] https://docs.google.com/document/d/1COekNDYdzcJe2f_ShKT...
+18:07:59  INFO      =======================================================
+18:07:59  INFO      Mulai pengiriman ke 4 penerima...
+18:07:59  INFO      Server : smtp.gmail.com:587
+18:07:59  INFO      Dari   : rifky_setyaji@student.ub.ac.id
+18:07:59  INFO      =======================================================
+18:08:02  INFO      Login SMTP berhasil ✓
+18:08:02  INFO      -------------------------------------------------------
+18:08:02  INFO          🔗 Link Dokumen: https://docs.google.com/document/d/1x1r6Xwd-46YrDhcu8NJZsRvU-I-lmy_eNBLUJrHbL2A/edit?usp=sharing
+18:08:06  INFO      [  1/4] ✅ BERHASIL → Rhyu <rhyusantosa25@gmail.com>
+18:08:06  INFO          🔗 Link Dokumen: https://docs.google.com/document/d/1COekNDYdzcJe2f_ShKTFrAxE0nxhzRlzkrVpKJco72o/edit?usp=sharing
+18:08:09  INFO      [  2/4] ✅ BERHASIL → Rifky <rifkycahyasetyaji@gmail.com>
+18:08:09  INFO          🔗 Link Dokumen: https://docs.google.com/document/d/1x1r6Xwd-46YrDhcu8NJZsRvU-I-lmy_eNBLUJrHbL2A/edit?usp=sharing
+18:08:12  INFO      [  3/4] ✅ BERHASIL → Ahmad Fauzi <rhyu_santosa@student.ub.ac.id>
+18:08:12  INFO          🔗 Link Dokumen: https://docs.google.com/document/d/1COekNDYdzcJe2f_ShKTFrAxE0nxhzRlzkrVpKJco72o/edit?usp=sharing
+18:08:16  INFO      [  4/4] ✅ BERHASIL → Dosen Pembimbing <its.rif76@gmail.com>
+18:08:16  INFO      =======================================================
+18:08:16  INFO      SELESAI | Total: 4 | ✅ Berhasil: 4 | ❌ Gagal: 0
+18:08:16  INFO      Ringkasan tersimpan → /Users/rifkycahyasetyaji/Documents/SIBK/Script_Email/logs/hasil_pengiriman.json

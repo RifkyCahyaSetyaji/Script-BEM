@@ -1,0 +1,1 @@
+18:06:15  INFO      Log disimpan ke: /Users/rifkycahyasetyaji/Documents/SIBK/Script_Email/logs/email_log_20261012_180615.txt

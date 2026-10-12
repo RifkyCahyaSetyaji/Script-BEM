@@ -1,0 +1,28 @@
+18:25:21  INFO      Log disimpan ke: /Users/rifkycahyasetyaji/Documents/SIBK/Script_Email/logs/email_log_20261012_182521.txt
+18:25:21  INFO      Memuat 5 penerima dari '/Users/rifkycahyasetyaji/Documents/SIBK/Script_Email/penerima.csv'
+18:25:21  INFO      Preview penerima (5 orang):
+18:25:21  INFO        1. Rhyu <rhyusantosa25@gmail.com> | dok: [Link Docs] https://docs.google.com/document/d/1x1r6Xwd-46YrDhcu8NJ...
+18:25:21  INFO        2. Rifky <rifkycahyasetyaji@gmail.com> | dok: [Link Docs] https://docs.google.com/document/d/1COekNDYdzcJe2f_ShKT...
+18:25:21  INFO        3. Ahmad Fauzi <rhyu_santosa@student.ub.ac.id> | dok: [Link Docs] https://docs.google.com/document/d/1x1r6Xwd-46YrDhcu8NJ...
+18:25:21  INFO        4. Dosen Pembimbing <its.rif76@gmail.com> | dok: [Link Docs] https://docs.google.com/document/d/1COekNDYdzcJe2f_ShKT...
+18:25:21  INFO        5. Nopal <noxval@student.ub.ac.id> | dok: [Link Docs] https://docs.google.com/document/d/1COekNDYdzcJe2f_ShKT...
+18:25:21  INFO      =======================================================
+18:25:21  INFO      Mulai pengiriman ke 5 penerima...
+18:25:21  INFO      Server : smtp.gmail.com:587
+18:25:21  INFO      Dari   : rifky_setyaji@student.ub.ac.id
+18:25:21  INFO      =======================================================
+18:25:23  INFO      Login SMTP berhasil ✓
+18:25:23  INFO      -------------------------------------------------------
+18:25:23  INFO          🔗 Link Dokumen: https://docs.google.com/document/d/1x1r6Xwd-46YrDhcu8NJZsRvU-I-lmy_eNBLUJrHbL2A/edit?usp=sharing
+18:25:26  INFO      [  1/5] ✅ BERHASIL → Rhyu <rhyusantosa25@gmail.com>
+18:25:26  INFO          🔗 Link Dokumen: https://docs.google.com/document/d/1COekNDYdzcJe2f_ShKTFrAxE0nxhzRlzkrVpKJco72o/edit?usp=sharing
+18:25:28  INFO      [  2/5] ✅ BERHASIL → Rifky <rifkycahyasetyaji@gmail.com>
+18:25:28  INFO          🔗 Link Dokumen: https://docs.google.com/document/d/1x1r6Xwd-46YrDhcu8NJZsRvU-I-lmy_eNBLUJrHbL2A/edit?usp=sharing
+18:25:30  INFO      [  3/5] ✅ BERHASIL → Ahmad Fauzi <rhyu_santosa@student.ub.ac.id>
+18:25:30  INFO          🔗 Link Dokumen: https://docs.google.com/document/d/1COekNDYdzcJe2f_ShKTFrAxE0nxhzRlzkrVpKJco72o/edit?usp=sharing
+18:25:32  INFO      [  4/5] ✅ BERHASIL → Dosen Pembimbing <its.rif76@gmail.com>
+18:25:32  INFO          🔗 Link Dokumen: https://docs.google.com/document/d/1COekNDYdzcJe2f_ShKTFrAxE0nxhzRlzkrVpKJco72o/edit?usp=sharing
+18:25:33  INFO      [  5/5] ✅ BERHASIL → Nopal <noxval@student.ub.ac.id>
+18:25:34  INFO      =======================================================
+18:25:34  INFO      SELESAI | Total: 5 | ✅ Berhasil: 5 | ❌ Gagal: 0
+18:25:34  INFO      Ringkasan tersimpan → /Users/rifkycahyasetyaji/Documents/SIBK/Script_Email/logs/hasil_pengiriman.json

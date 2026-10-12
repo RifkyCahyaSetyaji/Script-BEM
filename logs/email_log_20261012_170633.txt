@@ -1,0 +1,21 @@
+17:06:33  INFO      Log disimpan ke: /Users/rifkycahyasetyaji/Documents/SIBK/Script_Email/logs/email_log_20261012_170633.txt
+17:06:33  INFO      Memuat 4 penerima dari '/Users/rifkycahyasetyaji/Documents/SIBK/Script_Email/penerima.csv'
+17:06:33  INFO      Preview penerima (4 orang):
+17:06:33  INFO        1. Rhyu <rhyusantosa25@gmail.com> | dok: (tidak ada)
+17:06:33  INFO        2. Rifky <rifkycahyasetyaji@gmail.com> | dok: (tidak ada)
+17:06:33  INFO        3. Ahmad Fauzi <rhyu_santosa@student.ub.ac.id> | dok: (tidak ada)
+17:06:33  INFO        4. Dosen Pembimbing <its.rif76@gmail.com> | dok: (tidak ada)
+17:06:33  INFO      =======================================================
+17:06:33  INFO      Mulai pengiriman ke 4 penerima...
+17:06:33  INFO      Server : smtp.gmail.com:587
+17:06:33  INFO      Dari   : rifky_setyaji@student.ub.ac.id
+17:06:33  INFO      =======================================================
+17:06:36  INFO      Login SMTP berhasil ✓
+17:06:36  INFO      -------------------------------------------------------
+17:06:38  INFO      [  1/4] ✅ BERHASIL → Rhyu <rhyusantosa25@gmail.com>
+17:06:41  INFO      [  2/4] ✅ BERHASIL → Rifky <rifkycahyasetyaji@gmail.com>
+17:06:42  INFO      [  3/4] ✅ BERHASIL → Ahmad Fauzi <rhyu_santosa@student.ub.ac.id>
+17:06:45  INFO      [  4/4] ✅ BERHASIL → Dosen Pembimbing <its.rif76@gmail.com>
+17:06:45  INFO      =======================================================
+17:06:45  INFO      SELESAI | Total: 4 | ✅ Berhasil: 4 | ❌ Gagal: 0
+17:06:45  INFO      Ringkasan tersimpan → /Users/rifkycahyasetyaji/Documents/SIBK/Script_Email/logs/hasil_pengiriman.json
